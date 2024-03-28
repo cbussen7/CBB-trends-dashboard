@@ -1,1 +1,3 @@
 # CBB-trends-dashboard
+
+This repo contains the Tableau dashboards created for my Exploratory Data Analysis midterm project. For this project, I utilized Kaggle datasets about Men's D1 college basketball and performed some data cleaning and preparation, starting with the creation of a Python web scraper used to add a column for each team's location. In the dashboards themselves, I looked at how different variables might be correlated with a team's win total, seeding, and how far in March Madness they make it. I also focused on the difference in success between different conferences as well as geographic locations. It is important to note that one dataset I used was for the 2023 season while another was for the 2013-2019 and 2021-2023 seasons combined. 
